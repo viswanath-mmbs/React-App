@@ -1,0 +1,5 @@
+*.cache
+*.dist
+/index.html
+/index.js
+/.project
