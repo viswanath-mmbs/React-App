@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <h1>Today's Task19</h1>
+        <h1>Your Names List</h1>
     );
 }
 

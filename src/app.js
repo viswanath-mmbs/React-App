@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import Header from "./components/header";
+import Tasker from "./components/Tasker";
 import TaskList from "./components/TaskList";
 
 class App extends Component {
     render() {
         return(
             <div>
-                <Header />
+                <Tasker />
                 <TaskList />
             </div>
         );
