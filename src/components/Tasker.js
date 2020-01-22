@@ -12,7 +12,7 @@ class Tasker extends Component {
         return(
         	<div>
         		<Header />
-				<lable>Name</lable>
+				<label>Name</label>
 				<input type="text" name="name"></input>
 				<button type="submit" name="add">add</button>
         	</div>

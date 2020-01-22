@@ -12,3 +12,7 @@ npm install -g react react-dom
 
 # install react-bootstrap for form components
 npm install -g react-bootstrap
+
+# install prop-types
+npm install prop-types
+
