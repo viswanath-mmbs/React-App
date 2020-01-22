@@ -3,12 +3,6 @@ import Header from './header';
 
 var TITLE = 'Viswanath M Tasks';
 class Tasker extends Component {
-
-	constructor(props) {
-		super(props);
-		this.state = {};
-	}
-	
 	render() {
         return(
         	<div>
